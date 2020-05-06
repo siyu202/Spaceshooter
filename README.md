@@ -1,5 +1,5 @@
 # Spaceshooter
-**Thank you checking out this Spaceshooter!**
+**Thank you for checking out this Spaceshooter!**
 
 **What you need:**
 Python environment, make sure you install Pygame package
